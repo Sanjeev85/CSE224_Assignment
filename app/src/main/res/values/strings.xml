@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CSE224_CA2</string>
+    <string name="tag_1">Get Started with your work, school or</string>
+    <string name="tag_2">personal Microsoft Account</string>
+    <string name="help_sign_in">Get help with signing in</string>
+    <string name="signup">Sign up for free</string>
+    <string name="title">Microsoft Teams</string>
+    <string name="hint">Enter email, phone or Skype</string>
+    <string name="signin">Sign in</string>
+    <string name="join">Join a meeting</string>
+</resources>

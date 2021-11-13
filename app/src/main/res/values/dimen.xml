@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width">55dp</dimen>
+    <dimen name="margin">6dp</dimen>
+    <dimen name="height">50dp</dimen>
+    <dimen name="margin_lt_rt">60dp</dimen>
+    <dimen name="marginBottom">5dp</dimen>
+    <dimen name="marginTop">15dp</dimen>
+    <dimen name="textSize">16sp</dimen>
+</resources>
